@@ -1,7 +1,7 @@
 # HackYourFuture Slide Template
 
 Forked from https://github.com/hakimel/reveal.js.
-
+Many Thanks 💕!!
 
 
 ## Customizing the theme
